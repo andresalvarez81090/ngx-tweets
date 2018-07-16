@@ -1,0 +1,35 @@
+{
+  "name": "ngx-tweets",
+  "version": "1.0.0",
+  "authors": [
+    "Andres Alvarez  <andresalvarez81090@gmail.com>"
+  ],
+  "description": "An AngularJS module that provides an interface into Twitter's embedded widget library.",
+  "main": "dist/ngx-tweets.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "twitter",
+    "tweet",
+    "widget",
+    "embed"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/andresalvarez81090/ngx-tweeta",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">= 1.3.0"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.2"
+  },
+  "repository": "andresalvarez81090/ngx-tweets"
+}
